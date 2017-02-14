@@ -1,0 +1,4 @@
+Composition:
+1.00 Bacteroides_thetaiotaomicron_VPI-5482
+0.18 Shewanella_baltica_OS223,
+0.06 Nostoc_sp._PCC_7120_DNA

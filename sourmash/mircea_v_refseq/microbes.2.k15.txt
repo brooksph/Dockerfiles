@@ -1,0 +1,175 @@
+Composition:
+1.00 NC_007951.1 Burkholderia xenovorans LB400 chromosome 1, complete sequence
+0.97 NC_004663.1 Bacteroides thetaiotaomicron VPI-5482 chromosome, complete genome
+0.95 NC_005027.1 Rhodopirellula baltica SH 1 chromosome, complete genome
+0.94 NC_003552.1 Methanosarcina acetivorans str. C2A, complete genome
+0.92 NC_011663.1 Shewanella baltica OS223, complete genome
+0.90 NC_009614.1 Bacteroides vulgatus ATCC 8482, complete genome
+0.87 NC_009012.1 Clostridium thermocellum ATCC 27405, complete genome
+0.85 NC_012032.1 Chloroflexus sp. Y-400-fl, complete genome
+0.77 NZ_AOPW01000001.1 Enterococcus faecalis EnGen0310 = MMH594 Contig1, whole genome shotgun sequence
+0.76 NC_008639.1 Chlorobium phaeobacteroides DSM 266, complete genome
+0.76 NC_009486.1 Thermotoga petrophila RKU-1, complete genome
+0.76 NC_003106.2 Sulfolobus tokodaii str. 7 DNA, complete genome
+0.72 NC_012483.1 Acidobacterium capsulatum ATCC 51196, complete genome
+0.72 NC_000961.1 Pyrococcus horikoshii OT3 DNA, complete genome
+0.71 NC_009437.1 Caldicellulosiruptor saccharolyticus DSM 8903, complete genome
+0.70 NC_002967.9 Treponema denticola ATCC 35405 chromosome, complete genome
+0.69 NC_000917.1 Archaeoglobus fulgidus DSM 4304, complete genome
+0.69 NC_004757.1 Nitrosomonas europaea ATCC 19718, complete genome
+0.69 NC_010321.1 Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome
+0.67 NC_013926.1 Aciduliprofundum boonei T469, complete genome
+0.65 NC_006526.2 Zymomonas mobilis subsp. mobilis ZM4, complete genome
+0.65 NC_010803.1 Chlorobium limicola DSM 245, complete genome
+0.64 NC_011126.1 Hydrogenobaculum sp. Y04AAS1, complete genome
+0.64 NC_003413.1 Pyrococcus furiosus DSM 3638, complete genome
+0.64 NC_009776.1 Ignicoccus hospitalis KIN4/I, complete genome
+0.62 NC_005791.1 Methanococcus maripaludis strain S2, complete sequence
+0.61 NC_011661.1 Dictyoglomus turgidum DSM 6724 chromosome, complete genome
+0.60 NZ_AZWY01000001.1 Salinispora arenicola CNQ748 B106DRAFT_scaffold_0.1_C, whole genome shotgun sequence
+0.60 NC_017454.1 Geobacter sulfurreducens KN400, complete genome
+0.56 NC_002927.3 Bordetella bronchiseptica strain RB50, complete genome
+0.56 NZ_CH959317.1 Sulfitobacter sp. NAS-14.1 scf_1099451320472 genomic scaffold, whole genome shotgun sequence
+0.55 NZ_KI629854.1 Porphyromonas gingivalis SJD2 genomic scaffold scaffold1, whole genome shotgun sequence
+0.54 NC_011978.1 Thermotoga neapolitana DSM 4359, complete genome
+0.54 NZ_CCDQ010000001.1 Akkermansia muciniphila WGS project CCDQ000000000 data, isolate Urmite, contig 00001, whole genome shotgun sequence
+0.52 NC_003911.12 Ruegeria pomeroyi DSS-3, complete genome
+0.51 NC_010524.1 Leptothrix cholodnii SP-6, complete genome
+0.48 NZ_DS996397.1 Desulfovibrio piger ATCC 29098 Scfld442 genomic scaffold, whole genome shotgun sequence
+0.45 NC_009380.1 Salinispora tropica CNB-440, complete genome
+0.45 NC_002937.3 Desulfovibrio vulgaris str. Hildenborough chromosome, complete genome
+0.43 NC_005835.1 Thermus thermophilus HB27, complete genome
+0.43 NZ_LRTP01000001.1 Streptomyces diastatochromogenes strain ATCC 12309 diasta_1.1, whole genome shotgun sequence
+0.42 NC_001263.1 Deinococcus radiodurans R1 chromosome 1, complete sequence
+0.37 NC_013968.1 Haloferax volcanii DS2 plasmid pHV1, complete sequence
+0.33 NC_003454.1 Fusobacterium nucleatum subsp. nucleatum ATCC 25586 chromosome, complete genome
+0.27 NW_002477076.1 Tetrahymena thermophila SB210 genomic scaffold scf_8255783, whole genome shotgun sequence
+0.25 NC_009135.1 Methanococcus maripaludis C5, complete genome
+0.22 NC_009665.1 Shewanella baltica OS185, complete genome
+0.09 NZ_CH959311.1 Sulfitobacter sp. EE-36 scf_1099451318005 genomic scaffold, whole genome shotgun sequence
+0.08 NW_001813913.1 Ajellomyces capsulatus NAm1 scaffold_99 genomic scaffold, whole genome shotgun sequence
+0.08 NC_018940.1 Kazachstania africana CBS 2517 chromosome 1, complete genome
+0.08 NC_016449.1 Eremothecium cymbalariae DBVPG#7215 chromosome 1, complete sequence
+0.07 NZ_JTJC01000086.1 Scytonema millei VB511283 scaffold_0, whole genome shotgun sequence
+0.06 NW_002477179.1 Giardia lamblia ATCC 50803 SC_662 genomic scaffold, whole genome shotgun sequence
+0.06 NW_006920869.1 Pseudozyma flocculosa PF-1 unplaced genomic scaffold scaffold00001, whole genome shotgun sequence
+0.06 NC_018292.1 Candida orthopsilosis Co 90-125, chromosome 1 draft sequence
+0.06 NZ_AUCV01000001.1 Desulfobulbus japonicus DSM 18378 G493DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+0.05 NW_006913045.1 Cladophialophora yegresii CBS 114405 aczIN-supercont1.1, whole genome shotgun sequence
+0.05 NW_003101575.1 Clavispora lusitaniae ATCC 42720 scaffold_4 genomic scaffold, whole genome shotgun sequence
+0.05 NC_015510.1 Haliscomenobacter hydrossis DSM 1100, complete genome
+0.05 NZ_LOPZ01000001.1 Idiomarina sp. H105 contig_1, whole genome shotgun sequence
+0.05 NZ_ANOQ01000001.1 Rhodopirellula sp. SWK7 cSWK70001, whole genome shotgun sequence
+0.05 NC_007194.1 Aspergillus fumigatus Af293 chromosome 1, whole genome shotgun sequence
+0.05 NC_013077.1 Kluyveromyces thermotolerans strain CBS 6340 chromosome A complete sequence
+0.05 NW_015385427.1 Debaryomyces fabryi strain CBS 789 chromosome Unknown, whole genome shotgun sequence
+0.05 NZ_JSFJ01000001.1 Thermotoga sp. Xyl54 Contig1, whole genome shotgun sequence
+0.04 NW_003299154.1 Arthroderma otae CBS 113480 supercont1.16 genomic scaffold, whole genome shotgun sequence
+0.04 NZ_JTCM01000043.1 Hassallia byssoidea VB512170 scaffold_0, whole genome shotgun sequence
+0.04 NZ_JH993793.1 Leptolyngbya sp. PCC 7375 genomic scaffold Lepto7375DRAFT_LPA.1, whole genome shotgun sequence
+0.04 NW_006911257.1 Baudoinia panamericana UAMH 10762 unplaced genomic scaffold BAUCOscaffold_1, whole genome shotgun sequence
+0.04 NZ_JUCF01000001.1 Escherichia coli strain CVM N36834PS N36834PS_contig_1, whole genome shotgun sequence
+0.04 NZ_JPRD01000001.1 Vibrio owensii CAIM 1854 = LMG 25443 strain DY05 contig_1, whole genome shotgun sequence
+0.04 NZ_JUIF01005023.1 Streptomyces pluripotens strain MUSC 137 Contig5030, whole genome shotgun sequence
+0.04 NC_016501.1 Torulaspora delbrueckii CBS 1146 chromosome 1, complete genome
+0.04 NZ_JH636439.1 Zavarzinella formosa DSM 19928 genomic scaffold Scaffold1, whole genome shotgun sequence
+0.04 NZ_ABIZ01000001.1 Verrucomicrobium spinosum DSM 4136 chromosome, whole genome shotgun sequence
+0.04 NW_006711148.1 Trichoderma reesei QM6a unplaced genomic scaffold TRIREscaffold_1, whole genome shotgun sequence
+0.03 NZ_HG005139.1 Paenibacillus sp. GD11 genomic scaffold, scaffold00001, whole genome shotgun sequence
+0.03 NC_014652.1 Caldicellulosiruptor hydrothermalis 108, complete genome
+0.03 NW_008806274.1 Wallemia ichthyophaga EXF-994 unplaced genomic scaffold scaffold1, whole genome shotgun sequence
+0.03 NC_020185.1 Tetrapisispora blattae CBS 6284 chromosome 1, complete genome
+0.03 NZ_JH724226.1 Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.1, whole genome shotgun sequence
+0.03 NC_010628.1 Nostoc punctiforme PCC 73102, complete genome
+0.03 NZ_ACZN01000020.1 Vibrio coralliilyticus ATCC BAA-450 VIC.Contig73, whole genome shotgun sequence
+0.03 NZ_JCKJ01000001.1 Methylophilaceae bacterium 11 Meth11DRAFT_Scaffold1.1_C, whole genome shotgun sequence
+0.03 NC_019729.1 Oscillatoria nigro-viridis PCC 7112, complete genome
+0.03 NZ_JYYN01000001.1 Salmonella enterica subsp. enterica serovar Dublin strain CVM N40387 N40387_contig_1, whole genome shotgun sequence
+0.03 NZ_LJED01000001.1 Enterobacter asburiae strain ST54:941713674 MIRA_c1, whole genome shotgun sequence
+0.03 NZ_ADFO01000121.1 Prevotella bivia JCVIHMP010 contig00007, whole genome shotgun sequence
+0.03 NC_019892.1 Singulisphaera acidiphila DSM 18658, complete genome
+0.03 NZ_LMSJ01000001.1 Paenibacillus sp. Soil766 contig_1, whole genome shotgun sequence
+0.03 NZ_LK391965.1 Vibrio nigripulchritudo SOn1 genomic scaffold, ASP_2429, whole genome shotgun sequence
+0.03 NZ_KN150731.1 Yersinia frederiksenii ATCC 33641 genomic scaffold scaffold1, whole genome shotgun sequence
+0.03 NW_012192581.1 Plasmodium fragile strain nilgiri unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+0.03 NZ_BCMN01000001.1 Streptomyces turgidiscabies DNA, scaffold: NODE_001_cov_61.2386, strain: T45, whole genome shotgun sequence
+0.03 NZ_BAEM01000063.1 Glaciecola chathamensis S18K6 DNA, contig: CTG063, whole genome shotgun sequence
+0.03 NW_006917130.1 Moniliophthora roreri MCA 2997 sctg_0001_0001, whole genome shotgun sequence
+0.02 NZ_LJYG01000001.1 Bradyrhizobium manausense strain BR3351 contig145, whole genome shotgun sequence
+0.02 NW_006531958.1 Wallemia sebi CBS 633.66 unplaced genomic scaffold WALSEscaffold_1, whole genome shotgun sequence
+0.02 NZ_KK366017.1 Bacillus sp. UNC41MFS5 genomic scaffold BR30DRAFT_scaffold00001.1, whole genome shotgun sequence
+0.02 NZ_AEJF01000001.1 Burkholderia glathei PML1(12) contig00001, whole genome shotgun sequence
+0.02 NW_011627860.1 Schizosaccharomyces japonicus yFS275 unplaced genomic scaffold supercont5.1, whole genome shotgun sequence
+0.02 NZ_CM001633.1 Oscillatoriales cyanobacterium JSC-12 chromosome, whole genome shotgun sequence
+0.02 NZ_JXIJ01000130.1 Mastigocladus laminosus UU774 scaffold_0, whole genome shotgun sequence
+0.02 NZ_JMLS01000001.1 Paenibacillus sp. UNC451MF BP97DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+0.02 NZ_ANNU01000001.1 Nafulsella turpanensis ZLM-10 contig0001, whole genome shotgun sequence
+0.02 NW_004457737.1 Dictyostelium fasciculatum unplaced genomic scaffold Scf_Dfasci-G-b-205a01.r1-3, whole genome shotgun sequence
+0.02 NW_001916388.1 Entamoeba histolytica HM-1:IMSS scf_1104750517515, whole genome shotgun sequence
+0.02 NZ_JVPY01000001.1 Rothia mucilaginosa strain 207_RMUC 213_624857_25092610_10_,...,82_, whole genome shotgun sequence
+0.02 NZ_AZUX01000001.1 Mesorhizobium sp. WSM2561 MesW2561DRAFT_scaffold_0.1_C, whole genome shotgun sequence
+0.02 NC_019684.1 Nostoc sp. PCC 7524, complete genome
+0.02 NZ_CBTR010000001.1 Pseudomonas aeruginosa MH27 WGS project CBTR000000000 data, contig PAMH27_CONTIG_1, whole genome shotgun sequence
+0.02 NC_021712.1 Alteromonas macleodii str. 'Ionian Sea U8', complete genome
+0.02 NC_013132.1 Chitinophaga pinensis DSM 2588, complete genome
+0.02 NZ_LMLV01000001.1 Paenibacillus sp. Leaf72 contig_1, whole genome shotgun sequence
+0.02 NC_020126.1 Myxococcus stipitatus DSM 14675, complete genome
+0.02 NZ_JTLD01000001.1 Alistipes sp. ZOR0009 L990_1, whole genome shotgun sequence
+0.02 NZ_BAHT02000327.1 Clostridiales bacterium VE202-06 DNA, contig: VE202-06_contig00327, whole genome shotgun sequence
+0.02 NW_013185619.1 Schizosaccharomyces octosporus yFS286 unplaced genomic scaffold supercont6.1, whole genome shotgun sequence
+0.02 NZ_CP009284.1 Paenibacillus sp. FSL R7-0331, complete genome
+0.02 NZ_AVDV01000001.1 Pseudomonas viridiflava TA043 contig1.1, whole genome shotgun sequence
+0.02 NZ_JWBZ01000024.1 Rahnella aquatilis strain 1133_RAQU 101_56696_743101, whole genome shotgun sequence
+0.02 NZ_JNJB01000001.1 Dyadobacter crusticola DSM 16708 Q369DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+0.02 NZ_KK211305.1 Butyrivibrio sp. LB2008 genomic scaffold T356DRAFT_scaffold00001.1, whole genome shotgun sequence
+0.02 NZ_ALAT01000001.1 Pseudomonas luteola XLDN4-9 contig000001, whole genome shotgun sequence
+0.02 NW_006920908.1 Togninia minima UCRPA7 unplaced genomic scaffold PA7_03_scaffold_1, whole genome shotgun sequence
+0.02 NC_026478.1 Ustilago maydis 521 chromosome 1, whole genome shotgun sequence
+0.02 NZ_LDOV01000001.1 Photobacterium aphoticum strain DSM 25995 contig0001, whole genome shotgun sequence
+0.02 NZ_LRGD01000001.1 Bacteroides cellulosilyticus strain CL09T06C25 AA416_contig0001, whole genome shotgun sequence
+0.02 NC_010002.1 Delftia acidovorans SPH-1, complete genome
+0.02 NZ_CM001774.1 Providencia rettgeri Dmel1 chromosome, whole genome shotgun sequence
+0.01 NZ_CP010350.1 Acinetobacter johnsonii XBB1, complete genome
+0.01 NZ_JXYS01000001.1 Acidithrix ferrooxidans strain Py-F3 AXFE_contig000001, whole genome shotgun sequence
+0.01 NZ_DS989897.1 Microcoleus chthonoplastes PCC 7420 scf_1103659003834 genomic scaffold, whole genome shotgun sequence
+0.01 NZ_JHEG02000059.1 Tolypothrix bouteillei VB521301 scaffold_0, whole genome shotgun sequence
+0.01 NZ_KB899966.1 Flavobacterium rivuli DSM 21788 genomic scaffold F565DRAFT_scaffold00001.1, whole genome shotgun sequence
+0.01 NZ_LGRO01000003.1 Sulfobacillus thermosulfidooxidans strain CBAR-13 map unlocalized plasmid unnamed Scaffold_3_CBAR13_plasmid, whole genome shotgun sequence
+0.01 NW_003315040.1 Verticillium albo-atrum VaMs.102 supercont1.26 genomic scaffold, whole genome shotgun sequence
+0.01 NZ_AKKP01000001.1 Rhodococcus sp. JVH1 grj.contig.0, whole genome shotgun sequence
+0.01 NZ_CP009759.1 Yersinia pseudotuberculosis strain EP2/+, complete genome
+0.01 NC_016472.1 Myceliophthora thermophila ATCC 42464 chromosome 1, complete sequence
+0.01 NZ_ASPU01000001.1 Paenibacillus sp. FSL H7-689 Contig001, whole genome shotgun sequence
+0.01 NZ_JRWM01000001.1 Vibrio variabilis strain T01 Contig1, whole genome shotgun sequence
+0.01 NC_020226.1 Millerozyma farinosa CBS 7064 chromosome A, complete sequence
+0.01 NZ_LIRA01001104.1 Paenibacillus riograndensis strain CAR114 contig_1, whole genome shotgun sequence
+0.01 NC_015277.1 Sphingobacterium sp. 21, complete genome
+0.01 NZ_JPHP01000001.1 Bacteroides fragilis strain DCMOUH0085B contig1, whole genome shotgun sequence
+0.01 NZ_KB850950.1 Clostridium hathewayi 12489931 genomic scaffold actYl-supercont1.1, whole genome shotgun sequence
+0.01 NZ_CP008849.1 Alteromonas australica strain H 17, complete genome
+0.01 NW_003214671.1 Perkinsus marinus ATCC 50983 genomic scaffold scf_1104296934676, whole genome shotgun sequence
+0.01 NZ_KB891406.1 Streptomyces sp. KhCrAH-340 genomic scaffold B063DRAFT_scaffold_0.1, whole genome shotgun sequence
+0.01 NZ_LCZJ02000001.1 Paenibacillus etheri strain SH7 Contig_1, whole genome shotgun sequence
+0.01 NZ_AP014633.1 Thioploca ingrica DNA, complete genome
+0.01 NZ_ATXD01000001.1 [Clostridium] methoxybenzovorans SR3 H204DRAFT_scaffold00010.10_C, whole genome shotgun sequence
+0.01 NZ_AJYE01000001.1 Enterovibrio norvegicus FF-162 subcontig_1, whole genome shotgun sequence
+0.01 NC_027216.1 Babesia bigemina genome assembly Bbig001, chromosome : I
+0.01 NW_008825620.1 Trypanosoma grayi strain ANR4 Tgr_1_V1, whole genome shotgun sequence
+0.01 NZ_CAQN01000001.1 Crocosphaera watsonii WH0402 WGS project CAQN00000000 data, contig 00797, whole genome shotgun sequence
+0.01 NZ_JH976537.1 Nodosilinea nodulosa PCC 7104 genomic scaffold Lepto7104DRAFT_LPD.2, whole genome shotgun sequence
+0.01 NZ_CP012602.1 Bacillus sp. FJAT-18017 genome
+0.01 NZ_KE384036.1 Runella zeae DSM 19591 genomic scaffold G563DRAFT_scaffold00001.1, whole genome shotgun sequence
+0.01 NZ_GG775127.1 Pseudomonas syringae pv. lachrymans str. M301315 genomic scaffold Scaffold_2, whole genome shotgun sequence
+0.01 NW_008481835.1 Plasmodium inui San Antonio 1 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+0.01 NZ_AFWG01000091.1 Vibrio splendidus ATCC 33789 VISP3789_91, whole genome shotgun sequence
+0.01 NZ_CP010976.1 Paenibacillus sp. IHBB 10380, complete genome
+0.01 NC_014837.1 Pantoea sp. At-9b, complete genome
+0.01 NZ_LPKH01000001.1 Burkholderia cepacia strain MSMB616WGS MSMB616WGS_10, whole genome shotgun sequence
+0.01 NZ_AUCT01000001.1 Desulfatibacillum aliphaticivorans DSM 15576 G491DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+0.01 NZ_JOEL01000001.1 Streptomyces celluloflavus strain NRRL B-2493 contig1.1, whole genome shotgun sequence
+0.01 NC_010162.1 Sorangium cellulosum 'So ce 56' complete genome
+0.01 NZ_JFHX01000001.1 Paenibacillus ehimensis A2 contig_1, whole genome shotgun sequence
+0.01 NW_139667.1 Candida albicans SC5314 chromosome 1 Ctg19-10122, whole genome shotgun sequence
+0.01 NZ_LRTM01000001.1 Streptomyces scabiei strain 96-08 9608_1.1, whole genome shotgun sequence
+0.01 NZ_JNFG01000001.1 Burkholderia sordidicola strain S170 NODE_16, whole genome shotgun sequence
+0.01 NW_013566995.1 Aureobasidium subglaciale EXF-2481 unplaced genomic scaffold scaffold_0, whole genome shotgun sequence

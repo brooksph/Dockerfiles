@@ -1,0 +1,60 @@
+Composition:
+1.00 NC_009776.1 Ignicoccus hospitalis KIN4/I, complete genome
+1.00 NC_013926.1 Aciduliprofundum boonei T469, complete genome
+1.00 NC_011126.1 Hydrogenobaculum sp. Y04AAS1, complete genome
+1.00 NC_000961.1 Pyrococcus horikoshii OT3 DNA, complete genome
+1.00 NC_009135.1 Methanococcus maripaludis C5, complete genome
+1.00 NC_003413.1 Pyrococcus furiosus DSM 3638, complete genome
+1.00 NC_010730.1 Sulfurihydrogenibium sp. YO3AOP1, complete genome
+1.00 NC_010321.1 Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome
+1.00 NC_006526.2 Zymomonas mobilis subsp. mobilis ZM4, complete genome
+1.00 NC_011978.1 Thermotoga neapolitana DSM 4359, complete genome
+1.00 NC_011661.1 Dictyoglomus turgidum DSM 6724 chromosome, complete genome
+1.00 NC_005090.1 Wolinella succinogenes DSM 1740, complete genome
+1.00 NC_000917.1 Archaeoglobus fulgidus DSM 4304, complete genome
+1.00 NC_004757.1 Nitrosomonas europaea ATCC 19718, complete genome
+1.00 NC_010655.1 Akkermansia muciniphila ATCC BAA-835, complete genome
+1.00 NC_003106.2 Sulfolobus tokodaii str. 7 DNA, complete genome
+1.00 NC_002967.9 Treponema denticola ATCC 35405 chromosome, complete genome
+1.00 NC_008639.1 Chlorobium phaeobacteroides DSM 266, complete genome
+1.00 NC_002939.5 Geobacter sulfurreducens PCA chromosome, complete genome
+1.00 NC_009012.1 Clostridium thermocellum ATCC 27405, complete genome
+1.00 NC_012483.1 Acidobacterium capsulatum ATCC 51196, complete genome
+1.00 NC_012489.1 Gemmatimonas aurantiaca T-27 DNA, complete genome
+1.00 NC_010175.1 Chloroflexus aurantiacus J-10-fl chromosome, complete genome
+1.00 NC_003552.1 Methanosarcina acetivorans str. C2A, complete genome
+1.00 NC_002927.3 Bordetella bronchiseptica strain RB50, complete genome
+1.00 NC_009953.1 Salinispora arenicola CNS-205, complete genome
+1.00 NC_005027.1 Rhodopirellula baltica SH 1 chromosome, complete genome
+1.00 NZ_CP008760.1 Burkholderia xenovorans LB400 chromosome 1, complete sequence
+1.00 NC_004663.1 Bacteroides thetaiotaomicron VPI-5482 chromosome, complete genome
+1.00 NC_010803.1 Chlorobium limicola DSM 245, complete genome
+1.00 NC_010524.1 Leptothrix cholodnii SP-6, complete genome
+1.00 NC_002932.3 Chlorobium tepidum TLS chromosome, complete genome
+1.00 NZ_CP012889.1 Porphyromonas gingivalis 381, complete genome
+1.00 NC_003454.1 Fusobacterium nucleatum subsp. nucleatum ATCC 25586 chromosome, complete genome
+0.99 NC_009337.1 Chlorobium phaeovibrioides DSM 265, complete genome
+0.99 NC_012034.1 Caldicellulosiruptor bescii DSM 6725, complete genome
+0.99 NC_011060.1 Pelodictyon phaeoclathratiforme BU-1, complete genome
+0.99 NC_009614.1 Bacteroides vulgatus ATCC 8482, complete genome
+0.99 NZ_DS996397.1 Desulfovibrio piger ATCC 29098 Scfld442 genomic scaffold, whole genome shotgun sequence
+0.98 NC_012440.1 Persephonella marina EX-H1, complete genome
+0.96 NZ_KE136524.1 Enterococcus faecalis V583 genomic scaffold acyDH-supercont2.1, whole genome shotgun sequence
+0.96 NC_005791.1 Methanococcus maripaludis strain S2, complete sequence
+0.95 NC_011663.1 Shewanella baltica OS223, complete genome
+0.94 NC_008751.1 Desulfovibrio vulgaris DP4, complete genome
+0.94 NC_009380.1 Salinispora tropica CNB-440, complete genome
+0.94 NC_001263.1 Deinococcus radiodurans R1 chromosome 1, complete sequence
+0.94 NC_009437.1 Caldicellulosiruptor saccharolyticus DSM 8903, complete genome
+0.94 NC_009486.1 Thermotoga petrophila RKU-1, complete genome
+0.88 NC_005835.1 Thermus thermophilus HB27, complete genome
+0.88 NC_003272.1 Nostoc sp. PCC 7120 DNA, complete genome
+0.88 NZ_CH959317.1 Sulfitobacter sp. NAS-14.1 scf_1099451320472 genomic scaffold, whole genome shotgun sequence
+0.87 NC_003911.12 Ruegeria pomeroyi DSS-3, complete genome
+0.75 NZ_ABZS01000228.1 Sulfurihydrogenibium yellowstonense SS-5 gcontig_18, whole genome shotgun sequence
+0.74 NC_013968.1 Haloferax volcanii DS2 plasmid pHV1, complete sequence
+0.47 NC_009665.1 Shewanella baltica OS185, complete genome
+0.45 NZ_CH959311.1 Sulfitobacter sp. EE-36 scf_1099451318005 genomic scaffold, whole genome shotgun sequence
+0.37 NC_010483.1 Thermotoga sp. RQ2, complete genome
+0.06 NC_013887.1 Methanocaldococcus sp. FS406-22, complete genome
+0.02 NZ_LGKP01000025.1 Herpetosiphon geysericola strain DSM 7119 contig_1, whole genome shotgun sequence

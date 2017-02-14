@@ -1,0 +1,2 @@
+SRR606249.pe.qc.fq.gz.abundtrim.gz
+mircea.2.fa
